@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nukzkk, I'm 14 and I'm from Brazil
 - 👀 I’m interested in cybersecurity and programming, specifically python
-- 🌱 I’m currently learning cybersecurity and improving my python skills 
+- 🌱 I’m currently learning cybersecurity and improving my python skills
 
 <!---
 Nukzkk/Nukzkk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
